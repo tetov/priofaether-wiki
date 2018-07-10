@@ -8,12 +8,13 @@ Pri of Aether är en värld uppe bestående av öar fritt svävande i luften. V�
 Det finns andra teorier, och många har ingen särskild idé om varför världen är som den är. Vad som finns nedanför öarna är okänt, förutom för de som har oturen att bestraffas med det vanliga staffet att hivas utför öarnas kant.
 
 ## Sunwell kingdom
+Styrs av en monarki med en människa som sittande regent.
 
 ### Sunwell Isle
 
 | Beskrivning           |                  |
 | ---                   | ---              |
-| Politisk tillhörighet | Sunwell kingdom? |
+| Politisk tillhörighet | Sunwell kingdom |
 | Ekonomisk klass       | Hög, medel       |
 | Bebos av              | Diverse raser    |
 
@@ -23,7 +24,7 @@ Sunwell Isle är Pri of Aether's kosmopol. Här lever de rika och de makt. Adeln
 
 | Beskrivning             |                    |
 | ----------------------- | ------------------ |
-| Politisk tillhörighet   | Sunwell kingdom?   |
+| Politisk tillhörighet   | Sunwell kingdom   |
 | Ekonomisk klass         | Medel              |
 | Bebos främst av         | Humans             |
 
@@ -31,21 +32,25 @@ En liten ö i utkanten av Sunwell bebodd främst av bönder som brukar den rika 
 
 Här finns ett lugn och en godmodighet som inte hittas i storstäderna på öarna omkring.
 
-### Ratchet Bay
+### Sunwell Terra
+
+Pri of Aether's största kontinent styrd av Sunwell kingdom.
+
+#### Ratchet Bay
 
 | Beskrivning           |                    |
 | ---                   | ------------------ |
-| Politisk tillhörighet | Sunwell kingdom?   |
+| Politisk tillhörighet | Sunwell kingdom  |
 | Ekonomisk klass       | Medel, låg         |
 | Bebos främst av       | Diverse raser      |
 
 Ratchet Bay är troligtvis den största staden i Pri of Aether, men det är också den mest farliga. En handelstad där en stor del av allt som produceras i Pri of Aether i något led hamnar. Det finns en stor export och importhandel, både en legal och en illegal. Här sker mycket smuggling och rivaliserande kriminella gäng tävlar hårt om att ta störst del av kakan. Den stora kriminaliteten har gjort denna stad fylld av fattigdom och de som bor här är pressade mellan ordningen och lagens stora närvaro och gängens aktiviteter.
 
-#### Louis
+##### Louis
 
 By utanför Ratchet Bay (cirka en timme till häst söderut). Här finns värdshuset Saint Louis Beer som drivs av Saint Louis som äger stora delar av stadens verksamheter. Hans bror Sean driver en bergsbestigningsverksamhet.
 
-### Article
+#### Article
 
 
  | Beskrivning           |                  |
