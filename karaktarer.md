@@ -26,7 +26,7 @@ Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windri
  | Class       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin)          |
  | Background  | Noble            |
  | From        | Sunwell Terrace? |
- | Faith       | Zyelia (sp)      |
+ | Faith       | Zyelia     |
  | Age         | ?                |
  | Gender      | Male             |
  | Eyes        | ?                |
