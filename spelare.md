@@ -5,15 +5,15 @@ Spelledare och världsskapare.
 
 # Anton
 
-Spelar Mara.
+Spelar [Mara](karaktarer#mara-windrivver).
 
 # Axel
 
-Spelar Hilduïr.
+Spelar [Hilduïr](karaktarer#hilduir-haethorn).
 
 # Christine
 
-Spelar Ini.
+Spelar [Ini](karaktarer#ini).
 
 # Kristian
 

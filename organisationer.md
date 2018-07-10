@@ -6,7 +6,7 @@ Riddarorden med bas på [Sunwell Isle](geografi#sunwell-isle). Ansvarar för sä
 
 # Golden Eye 
 
-Kriminell organisation i [Ratchet Bay](geografi#ratchet-bay). Den största och mest framgångsrika enligt [Phil](karaktarer#phil), organisationens ledare(?). "Rekryterade" [Karatemannen](karaktarer#karatemannen) med kompisar till att råna gallerian. Bad sedan våra äventyrare att utkräva hämnd på Karatemannen som var den ensamma överlevaren.
+Kriminell organisation i [Ratchet Bay](geografi#ratchet-bay). Den största och mest framgångsrika enligt [Phil](karaktarer#phil), organisationens ledare(?). "Rekryterade" [Karatemannen](karaktarer#karatemannen) med kompisar till att råna gallerian. Bad sedan våra äventyrare att utkräva hämnd på [Karatemannen](karaktarer#karatemannen) som var den ensamma överlevaren.
 
 ## Medlemmar
 

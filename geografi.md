@@ -48,7 +48,7 @@ Ratchet Bay är troligtvis den största staden i Pri of Aether, men det är ocks
 
 ##### Louis
 
-By utanför Ratchet Bay (cirka en timme till häst söderut). Här finns värdshuset Saint Louis Beer som drivs av Saint Louis som äger stora delar av stadens verksamheter. Hans bror Sean driver en bergsbestigningsverksamhet.
+By utanför [Ratchet Bay](geografi#ratchet-bay) (cirka en timme till häst söderut). Här finns värdshuset Saint Louis Beer som drivs av Saint Louis som äger stora delar av stadens verksamheter. Hans bror Sean driver en bergsbestigningsverksamhet.
 
 #### Article
 
@@ -90,7 +90,7 @@ Abkese är den största staden på Red Tundra och är en stad främst byggd på 
 
 ### Derrasha
 
-Liten oansenlig by norr om Abkese som varit platsen för en stor händelse i Mara's liv.
+Liten oansenlig by norr om Abkese som varit platsen för en stor händelse i [Mara's](karaktarer#mara-windrivver) liv.
 
 
 ## Ero Forest
