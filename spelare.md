@@ -1,6 +1,4 @@
 <!-- TITLE: Spelare -->
-<!-- SUBTITLE: A quick summary of Spelare -->
-
 # Henrik
 
 Spelledare och världsskapare.
