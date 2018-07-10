@@ -121,6 +121,9 @@ Enögd portvakt i [Golden Eye's](organisationer#golden-eye) gömställe i kloake
 ## Fidget
 Kanske, kanske inte ledare för invasionen av demoner i Pri of Aether. Har horn, rosa hud och njuter av att förvirra vår grupp äventyrare.
 
+## Karatemannen
+Ensam överlevare efter ett misslyckat inbrott i Gallerian i [Ratchet bay](geografi#ratchet-bay). Hans två vänner Ärtpojken och Bönpojken dog i en brand som slutade i Gallerians totala förstörelse.
+
 ## Phil
 Ledare för [Golden Eye](organisationer#golden-eye)?
 
@@ -130,5 +133,5 @@ Ledare för [Golden Eye](organisationer#golden-eye)?
 ## Sean
 Säljer klättringsutrustning och agerar guide. Avundsjuk bror till Saint Louis. Kaller det närliggande berget för Sean's mountain.
 
-## Karatemannen
-Ensam överlevare efter ett misslyckat inbrott i Gallerian i [Ratchet bay](geografi#ratchet-bay). Hans två vänner Ärtpojken och Bönpojken dog i en brand som slutade i Gallerians totala förstörelse.
+## Tim
+Värdshusvärd på _The Dwarf's Beard_ i [Ratchet Bay](geografi#ratchet-bay).

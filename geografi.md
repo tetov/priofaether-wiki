@@ -46,6 +46,8 @@ Pri of Aether's största kontinent styrd av Sunwell kingdom.
 
 Ratchet Bay är troligtvis den största staden i Pri of Aether, men det är också den mest farliga. En handelstad där en stor del av allt som produceras i Pri of Aether i något led hamnar. Det finns en stor export och importhandel, både en legal och en illegal. Här sker mycket smuggling och rivaliserande kriminella gäng tävlar hårt om att ta störst del av kakan. Den stora kriminaliteten har gjort denna stad fylld av fattigdom och de som bor här är pressade mellan ordningen och lagens stora närvaro och gängens aktiviteter.
 
+Här finns värdshuset _The Dwarf's Beard_ som drivs av [Tim](karaktarer#tim).
+
 ##### Louis
 
 By utanför [Ratchet Bay](geografi#ratchet-bay) (cirka en timme till häst söderut). Här finns värdshuset Saint Louis Beer som drivs av Saint Louis som äger stora delar av stadens verksamheter. Hans bror Sean driver en bergsbestigningsverksamhet.
