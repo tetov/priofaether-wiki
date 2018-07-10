@@ -4,11 +4,11 @@
 2018-06-14
 
 Närvarande:
-Henrik
-Anton
-Christine
-Kristian
-Pierre
+* Henrik
+* Anton
+* Christine
+* Kristian
+* Pierre
 
 Henrik beskrev världen Pri of Aether och vi började skapa karaktärer.
 
