@@ -32,9 +32,10 @@ Buka, Ini och Mara var inte särskilt sugna på döda en okänd person för peng
 
 Alla våra äventyrare återförenades på värdshuset, Yrsimerah hade följt med från Golden Eye's gömställe och Daleld stack in under sin nattpatrull. De två kenkus de mött i kloakerna var även där och verkade spana på gruppen äventyrare. Efter ett slag tömdes baren och Buka och Mara valde att gå och sova. Daleld begav sig ut för att fortsätta sin nattpatrull och Yrsimerah försökte klättra upp på värdshusets tak för att "stjärnskåda" men gav upp efter att inte ha lyckats klättra upp. Ini var vaken eftersom hen fått en idé om att värdshusägaren hade en hemlighet i källaren där han hade sitt förråd men även sin bostad. Tillsammans lyckades Ini och Yrsimerah dyrka upp låset på dörren till källaren och lyckades till slut smyga förbi den sovande värdshusägaren. I förrådsutrymmet under värdshuset hittade de en varm men tom sovplats och lyckades se den blå manteln Karatemannen beskrivts bära när en figur precis slank ut ur källaren. Yrsimerah rusade efter figuren medan Ini sprang för att väcka Buka och Mara.
 
-#Session 2
+# Session 2
 
 2018-07-09
+
 Närvarande:
 * Henrik
 * Anton
