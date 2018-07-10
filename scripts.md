@@ -1,7 +1,5 @@
 <!-- TITLE: Scripts -->
 
 # Scripts
+`for i in $(grep -rl "Yrsimerah"); do vim -c "%s/Yrsimerah/\[Yrsimerah\]\(karaktarer\#yrsimerah\suun\)/gc" -c "wq" "$i"; done
 
-```sh
-for i in $(grep -rl "Yrsimerah"); do vim -c "%s/Yrsimerah/\[Yrsimerah\]\(karaktarer\#yrsimerah\suun\)/gc" -c "wq" "$i"; done
-```
