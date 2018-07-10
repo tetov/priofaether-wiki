@@ -125,7 +125,7 @@ Kanske, kanske inte ledare för invasionen av demoner i Pri of Aether. Har horn,
 Ensam överlevare efter ett misslyckat inbrott i Gallerian i [Ratchet bay](geografi#ratchet-bay). Hans två vänner Ärtpojken och Bönpojken dog i en brand som slutade i Gallerians totala förstörelse.
 
 ## Old Phill
-Ledare för [Golden Eye](organisationer#golden-eye)?
+Ledare för [Golden Eye](organisationer#golden-eye).
 
 ## Saint Louis
 Äger en stor del av byn [Louis](geografi#louis) verksamheter, däriblan värdshuset och handelsposten. Bror till Sean.
