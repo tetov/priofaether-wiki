@@ -4,37 +4,39 @@
 ## Buka
 | Beskrivning  |                    |
 | ------------ | ---                |
-| Race         | [Half-orc](https://www.dndbeyond.com/characters/races/half-orc)           |
-| Class        | [Barbarian](https://www.dndbeyond.com/characters/classes/barbarian)          |
-| Background   | Gladiator          |
-| From         | Abkese, Red Tundra |
-| Faith        | ?                  |
-| Age          | ?                  |
-| Gender       | Male               |
-| Eyes         | ?                  |
-| Hair         | ?                  |
-| Skin         | ?                  |
-| Height       | ? cm (? ft)        |
-| Weight       | ? kg (? lbs)       |
+| Ras         | [Half-orc](https://www.dndbeyond.com/characters/races/half-orc)           |
+| Klass        | [Barbarian](https://www.dndbeyond.com/characters/classes/barbarian)          |
+| Bakgrund   | Gladiator          |
+| Från         | Abkese, Red Tundra |
+| Tro        | ?                  |
+| Ålder          | ?                  |
+| Kön       | Man               |
+| Ögonfärg         | ?                  |
+| Hår         | ?                  |
+| Hud         | ?                  |
+| Längd       | ? cm (? ft)        |
+| Vikt       | ? kg (? lbs)       |
+| Spelare | [Kristian](spelare#kristian) |
 
 Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windrivver för att hitta en ny plats för sig själv. Har en stor maul.
 
 ## Daleld Lightshield
  | Beskrivning |                                                                 |
  | ---         | ---                                                             |
- | Race        | [Human](https://www.dndbeyond.com/characters/races/human)       |
- | Class       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin) |
- | Age         | 18                                                              |
- | Background  | [Noble](https://www.dndbeyond.com/characters/backgrounds/noble) |
- | From        | [Sunwell Isle](geografi#sunwell-isle)                           |
- | Faith       | Zyelia                                                          |
- | Gender      | Male                                                            |
- | Eyes        | Brown                                                           |
- | Hair        | Brown buzzcut                                                   |
- | Skin        | Pale                                                            |
- | Height      | 175 cm (5,9 ft)                                                 |
- | Weight      | 91 kg (200 lbs)                                                 |
-
+ | Ras        | [Human](https://www.dndbeyond.com/characters/races/human)       |
+ | Klass       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin) |
+ | Bakgrund  | [Noble](https://www.dndbeyond.com/characters/backgrounds/noble) |
+ | Från       | [Sunwell Isle](geografi#sunwell-isle)                           |
+ | Tro       | Zyelia                                                          |
+ | Ålder         | 18                                                              |
+ | Kön      | Male                                                            |
+ | Ögonfärg        | Brown                                                           |
+ | Hår        | Brown buzzcut                                                   |
+ | Hud        | Pale                                                            |
+ | Längd      | 175 cm (5,9 ft)                                                 |
+ | Vikt      | 91 kg (200 lbs)                                                 |
+ | Spelare | [Pierre](spelare#pierre) |
+ 
 Daled är en riddare i [Sunwell Knights](organisationer#sunwell-knights). 
 
 ## Hilduïr Haethorn
@@ -52,7 +54,7 @@ Daled är en riddare i [Sunwell Knights](organisationer#sunwell-knights).
 | Hud         | Pale           |
 | Längd       | 190 cm (6'3")  |
 | Vikt        | 70 kg (154 lb) |
-| Spelare     | Axel           |
+| Spelare     | [Axel](spelare#axel)           |
 
 Hilduïr är en wood-elf som hamnat i [Ratchet Bay](geografi#ratchet-bay) och där levt som en tjuv. Anslöt sig till gruppen i [Session 2](sessions#session-2).
 
