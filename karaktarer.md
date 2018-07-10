@@ -20,20 +20,20 @@
 Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windrivver för att hitta en ny plats för sig själv.
 
 ## Daleld Lightshield
- | Beskrivning |                  |
- | ---         | ---              |
- | Race        | [Human](https://www.dndbeyond.com/characters/races/human)                    |
- | Class       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin)          |
- | Background  | Noble            |
- | From        | Sunwell Terrace? |
- | Faith       | Zyelia (sp)      |
- | Age         | 18                |
- | Gender      | Male             |
- | Eyes        | Brown                |
- | Hair        | Brown buzzcut                |
- | Skin        | Pale                |
- | Height      | 175 cm (5,9 ft)      |
- | Weight      | 91 kg (200 lbs)     |
+ | Beskrivning |                                                                 |
+ | ---         | ---                                                             |
+ | Race        | [Human](https://www.dndbeyond.com/characters/races/human)       |
+ | Class       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin) |
+ | Age         | 18                                                              |
+ | Background  | [Noble](https://www.dndbeyond.com/characters/backgrounds/noble) |
+ | From        | [Sunwell Isle](geografi#sunwell-isle)                           |
+ | Faith       | Zyelia                                                          |
+ | Gender      | Male                                                            |
+ | Eyes        | Brown                                                           |
+ | Hair        | Brown buzzcut                                                   |
+ | Skin        | Pale                                                            |
+ | Height      | 175 cm (5,9 ft)                                                 |
+ | Weight      | 91 kg (200 lbs)                                                 |
 
 Daled är en riddare i Sunwell Knights.
 
@@ -54,7 +54,7 @@ Daled är en riddare i Sunwell Knights.
 | Vikt        | 70 kg (154 lb) |
 | Spelare     | Axel           |
 
-Hilduïr är en wood-elf som hamnat i Ratchet Bay och där levt som en tjuv. Anslöt sig till gruppen i [Session 2](Session 2).
+Hilduïr är en wood-elf som hamnat i [Ratchet Bay](geografi#ratchet-bay) och där levt som en tjuv. Anslöt sig till gruppen i [Session 2](sessions#session-2).
 
 
 ## Ini
