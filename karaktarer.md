@@ -17,7 +17,7 @@
 | Height       | ? cm (? ft)        |
 | Weight       | ? kg (? lbs)       |
 
-Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windrivver för att hitta en ny plats för sig själv.
+Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windrivver för att hitta en ny plats för sig själv. Har en stor maul.
 
 ## Daleld Lightshield
  | Beskrivning |                                                                 |
@@ -35,7 +35,7 @@ Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windri
  | Height      | 175 cm (5,9 ft)                                                 |
  | Weight      | 91 kg (200 lbs)                                                 |
 
-Daled är en riddare i Sunwell Knights.
+Daled är en riddare i [Sunwell Knights](organisationer#sunwell-knights). 
 
 ## Hilduïr Haethorn
 | Beskrivning |                |
@@ -111,13 +111,13 @@ Hilduïr är en wood-elf som hamnat i [Ratchet Bay](geografi#ratchet-bay) och d�
 
 # NPC's
 ## Bob
-Enögd portvakt i Golden Eye's gömställe i kloakerna av Ratchet Bay.
+Enögd portvakt i Golden Eye's gömställe i kloakerna av [Ratchet Bay](geografi#ratchet-bay).
 
 ## Fidget
-Kanske, kanske inte ledare för invasionen av demoner i Aether. Har horn, rosa hud och njuter av att förvirra vår grupp äventyrare.
+Kanske, kanske inte ledare för invasionen av demoner i Pri of Aether. Har horn, rosa hud och njuter av att förvirra vår grupp äventyrare.
 
 ## Phil
-Ledare för Golden Eye?
+Ledare för [Golden Eye](organisationer#golden-eye)?
 
 ## Saint Louis
 Äger en stor del av byn Louis verksamheter, däriblan värdshuset och handelsposten. Bror till Sean.
@@ -126,4 +126,4 @@ Ledare för Golden Eye?
 Säljer klättringsutrustning och agerar guide. Avundsjuk bror till Sean. Kaller det närliggande berget för Sean's mountain.
 
 ## Karatemannen
-Ensam överlevare efter ett misslyckat inbrott i Gallerian i Ratchet bay. Hans två vänner Ärtpojken och ?? dog i en brand som slutade i Gallerians totala förstörelse.
+Ensam överlevare efter ett misslyckat inbrott i Gallerian i [Ratchet bay](geografi#ratchet-bay). Hans två vänner Ärtpojken och ?? dog i en brand som slutade i Gallerians totala förstörelse.
