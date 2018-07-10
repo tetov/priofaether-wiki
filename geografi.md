@@ -61,15 +61,18 @@ By utanför Ratchet Bay (cirka en timme till häst söderut). Här finns värdsh
 
 Article är ett mecca för magiker och alla som är intresserade av att studera det arkana. Här finns *Article school of witchcraft and wizardy*. Främst befolkat av de som har magins gåva.
 
-### Whiterock
+### Clinswell
+En bergig ö styrd av en monarki där regenten är en dvärg.
+
+#### Whiterock
 
 | Beskrivning           |                            |
 | ---                   | ---                        |
-| Politisk tillhörighet | ?                          |
+| Politisk tillhörighet | Dvärgmonarki                         |
 | Ekonomisk klass       | Blandad                    |
 | Bebos främst av       | Dwarfs, gnomes & halflings |
 
-Sten, metall och eld. De tre saker sammanfattar Whiterock. Denna stad är uppbyggd ibland bergen ovanpå mil av gruvor. Här finns de bästa smeder, ingejörer och uppfinnare. Både metall och varor exporteras härifrån ut till hela Pri of Aether. 
+Sten, metall och eld. De tre saker sammanfattar Whiterock. Denna stad är uppbyggd ibland bergen ovanpå mil av gruvor. Här finns de bästa smeder, ingejörer och uppfinnare. Både metall och varor exporteras härifrån ut till hela Pri of Aether. Huvudstad på Clinswell.
 
 ## Red Tundra 
 
@@ -79,7 +82,7 @@ _Blod & svett utan tårar_ är ett motto på Red Tundra. För att överleva öve
 
 | Beskrivning           |                                     |
 | ---                   | ---                                 |
-| Politisk tillhörighet | ?                                   |
+| Politisk tillhörighet | Vald ledare                                 |
 | Ekonomisk klass       | Låg                                 |
 | Bebos främst av       | Humans, goliaths, half-orc, yuan-ti |
 
@@ -104,7 +107,7 @@ En ö fylld med träd, djur och växtlighet där naturen är helig. Många varel
 
 | Beskrivning           |                               |
 | ---                   | ---                           |
-| Politisk tillhörighet | ?                             |
+| Politisk tillhörighet | Stamsamhällen                             |
 | Ekonomisk klass       | Låg                           |
 | Bebos främst av       | Tortles, lizardfolks & tabaxi |
 
