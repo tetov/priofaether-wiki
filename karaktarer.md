@@ -22,7 +22,7 @@ Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windri
 ## Daleld Lightshield
  | Beskrivning |                  |
  | ---         | ---              |
- | Race        | ??               |
+ | Race        | [Human](https://www.dndbeyond.com/characters/races/human)                    |
  | Class       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin)          |
  | Background  | Noble            |
  | From        | Sunwell Terrace? |
@@ -96,7 +96,7 @@ Hilduïr är en wood-elf som hamnat i Ratchet Bay och där levt som en tjuv. Ans
 ## Yrsimerah Suun
 | Beskrivning |                      |
 | ---         | ---                  |
-| Ras         | ?                    |
+| Ras         | [Human](https://www.dndbeyond.com/characters/races/human)                    |
 | Klass       | [Cleric](https://www.dndbeyond.com/characters/classes/cleric), blood domain |
 | Bakgrund    | Criminal?            |
 | Från        | [Ratchet bay?](geografi#ratchet-bay)         |
