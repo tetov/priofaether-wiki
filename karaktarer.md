@@ -26,14 +26,14 @@ Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windri
  | Class       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin)          |
  | Background  | Noble            |
  | From        | Sunwell Terrace? |
- | Faith       | Zyelia     |
- | Age         | ?                |
+ | Faith       | Zyelia (sp)      |
+ | Age         | 18                |
  | Gender      | Male             |
- | Eyes        | ?                |
- | Hair        | ?                |
- | Skin        | ?                |
- | Height      | ? cm (? ft)      |
- | Weight      | ? kg (? lbs)     |
+ | Eyes        | Brown                |
+ | Hair        | Brown buzzcut                |
+ | Skin        | Pale                |
+ | Height      | 175 cm (5,9 ft)      |
+ | Weight      | 91 kg (200 lbs)     |
 
 Daled är en riddare i Sunwell Knights.
 
