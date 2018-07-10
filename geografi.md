@@ -55,7 +55,7 @@ By utanför Ratchet Bay (cirka en timme till häst söderut). Här finns värdsh
 
  | Beskrivning           |                  |
  | ---                   | ---              |
- | Politisk tillhörighet | Sunwell kingdom? |
+ | Politisk tillhörighet | Sunwell kingdom |
  | Ekonomisk klass       | Medel            |
  | Bebos främst av       | Diverse raser    |
 
