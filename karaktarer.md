@@ -124,7 +124,7 @@ Kanske, kanske inte ledare för invasionen av demoner i Pri of Aether. Har horn,
 ## Karatemannen
 Ensam överlevare efter ett misslyckat inbrott i Gallerian i [Ratchet bay](geografi#ratchet-bay). Hans två vänner Ärtpojken och Bönpojken dog i en brand som slutade i Gallerians totala förstörelse.
 
-## Phil
+## Old Phill
 Ledare för [Golden Eye](organisationer#golden-eye)?
 
 ## Saint Louis
