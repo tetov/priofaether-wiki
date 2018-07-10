@@ -18,7 +18,7 @@
 | Vikt       | ? kg (? lbs)       |
 | Spelare | [Kristian](spelare#kristian) |
 
-Buka är en före detta gladiator som lämnat Abkese tillsammans med Mara Windrivver för att hitta en ny plats för sig själv. Har en stor maul.
+Buka är en före detta gladiator som lämnat [Abkese](geografi#abkese) tillsammans med [Mara Windrivver](karaktarer#mara-windrivver) för att hitta en ny plats för sig själv. Har en stor maul.
 
 ## Daleld Lightshield
  | Beskrivning |                                                                 |
@@ -75,6 +75,7 @@ Hilduïr är en wood-elf som hamnat i [Ratchet Bay](geografi#ratchet-bay) och d�
 | Hud         | ?        |
 | Längd       | ?        |
 | Vikt        | ?        |
+| Spelare | [Christine](spelare#christine)
 
 Ängslig tortle vars mål är att studera magi.
 
@@ -94,6 +95,7 @@ Hilduïr är en wood-elf som hamnat i [Ratchet Bay](geografi#ratchet-bay) och d�
 | Hud         | Slight gray              |
 | Längd       | 180 cm (5'9")            |
 | Vikt        | 80 kg (176 lb)           |
+| Spelare | [Anton](spelare#anton) |
 
 ## Yrsimerah Suun
 | Beskrivning |                      |
@@ -110,10 +112,11 @@ Hilduïr är en wood-elf som hamnat i [Ratchet Bay](geografi#ratchet-bay) och d�
 | Hud         | ?                    |
 | Längd       | ?                    |
 | Vikt        | ?                    |
+| Spelare | [Slade](spelare#slade) |
 
 # NPC's
 ## Bob
-Enögd portvakt i Golden Eye's gömställe i kloakerna av [Ratchet Bay](geografi#ratchet-bay).
+Enögd portvakt i [Golden Eye's](organisationer#golden-eye) gömställe i kloakerna av [Ratchet Bay](geografi#ratchet-bay).
 
 ## Fidget
 Kanske, kanske inte ledare för invasionen av demoner i Pri of Aether. Har horn, rosa hud och njuter av att förvirra vår grupp äventyrare.
@@ -122,10 +125,10 @@ Kanske, kanske inte ledare för invasionen av demoner i Pri of Aether. Har horn,
 Ledare för [Golden Eye](organisationer#golden-eye)?
 
 ## Saint Louis
-Äger en stor del av byn Louis verksamheter, däriblan värdshuset och handelsposten. Bror till Sean.
+Äger en stor del av byn [Louis](geografi#louis) verksamheter, däriblan värdshuset och handelsposten. Bror till Sean.
 
 ## Sean
-Säljer klättringsutrustning och agerar guide. Avundsjuk bror till Sean. Kaller det närliggande berget för Sean's mountain.
+Säljer klättringsutrustning och agerar guide. Avundsjuk bror till Saint Louis. Kaller det närliggande berget för Sean's mountain.
 
 ## Karatemannen
 Ensam överlevare efter ett misslyckat inbrott i Gallerian i [Ratchet bay](geografi#ratchet-bay). Hans två vänner Ärtpojken och ?? dog i en brand som slutade i Gallerians totala förstörelse.
