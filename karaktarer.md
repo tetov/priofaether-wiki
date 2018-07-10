@@ -131,4 +131,4 @@ Ledare för [Golden Eye](organisationer#golden-eye)?
 Säljer klättringsutrustning och agerar guide. Avundsjuk bror till Saint Louis. Kaller det närliggande berget för Sean's mountain.
 
 ## Karatemannen
-Ensam överlevare efter ett misslyckat inbrott i Gallerian i [Ratchet bay](geografi#ratchet-bay). Hans två vänner Ärtpojken och ?? dog i en brand som slutade i Gallerians totala förstörelse.
+Ensam överlevare efter ett misslyckat inbrott i Gallerian i [Ratchet bay](geografi#ratchet-bay). Hans två vänner Ärtpojken och Bönpojken dog i en brand som slutade i Gallerians totala förstörelse.
