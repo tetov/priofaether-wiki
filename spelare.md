@@ -17,12 +17,12 @@ Spelar Ini.
 
 # Kristian
 
-Spelar Buka.
+Spelar [Buka](karaktarer#buka).
 
 # Slade
 
-Spelar Yrsimerah.
+Spelar [Yrsimerah](karaktarer#yrsimerahsuun).
 
 # Pierre
 
-Spelar Daleld.
+Spelar [[Daleld](karaktarer#daleld-lightshield)](karaktarer#buka).
