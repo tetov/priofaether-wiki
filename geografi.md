@@ -1,7 +1,7 @@
 <!-- TITLE: Geografi -->
 # Pri of Aether
 
-Baserad på Henriks [dokument](https://docs.google.com/document/d/1zXKJ1j-eBEr9DngUenVeB1NWVJvbizqkUq2ckgLMrak/edit).
+Baserad på [Henriks](spelare#henrik) [dokument](https://docs.google.com/document/d/1zXKJ1j-eBEr9DngUenVeB1NWVJvbizqkUq2ckgLMrak/edit).
 
 Pri of Aether är en värld uppe bestående av öar fritt svävande i luften. Världen är fylld med magi och teknologi. Hur världen tillkommit och varför den ser ut som den har förklarats på flera sätt, men den främst rådande tron är att Zyelia, ljusets gudinna, lyfte landmassorna upp i skyn för 3000 år sedan. Under en invasion från demoner tog Zyelia hjälp av hennes syskon och utförde detta mirakel för att skydda världen från invasion.
 
