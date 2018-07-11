@@ -25,7 +25,7 @@ Buka är en före detta gladiator som lämnat [Abkese](geografi#abkese) tillsamm
  | ---         | ---                                                             |
  | Ras        | [Human](https://www.dndbeyond.com/characters/races/human)       |
  | Klass       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin) |
- | Bakgrund  | [Knight]https://www.dndbeyond.com/characters/backgrounds/knight) |
+ | Bakgrund  | [Knight](https://www.dndbeyond.com/characters/backgrounds/knight) |
  | Från       | [Sunwell Isle](geografi#sunwell-isle)                           |
  | Tro       | [Zyelia](religion#zyelia)                                                          |
  | Ålder         | 18                                                              |
