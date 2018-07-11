@@ -25,4 +25,4 @@ Spelar [Yrsimerah](karaktarer#yrsimerahsuun).
 
 # Pierre
 
-Spelar [[Daleld](karaktarer#daleld-lightshield)
+Spelar [Daleld](karaktarer#daleld-lightshield)
