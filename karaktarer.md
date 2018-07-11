@@ -27,7 +27,7 @@ Buka är en före detta gladiator som lämnat [Abkese](geografi#abkese) tillsamm
  | Klass       | [Paladin](https://www.dndbeyond.com/characters/classes/paladin) |
  | Bakgrund  | [Noble](https://www.dndbeyond.com/characters/backgrounds/noble) |
  | Från       | [Sunwell Isle](geografi#sunwell-isle)                           |
- | Tro       | Zyelia                                                          |
+ | Tro       | [Zyelia](religion#zyelia)                                                          |
  | Ålder         | 18                                                              |
  | Kön      | Male                                                            |
  | Ögonfärg        | Brown                                                           |
@@ -87,7 +87,7 @@ Hilduïr är en wood-elf som hamnat i [Ratchet Bay](geografi#ratchet-bay) och d�
 | Klass       | [Cleric](https://www.dndbeyond.com/characters/classes/cleric), knowledge domain |
 | Bakgrund    | [Urchin](https://www.dndbeyond.com/characters/backgrounds/urchin)                   |
 | Från        | [Red Tundra](geografi#red-tundra)               |
-| Tro         | [Selûne](http://forgottenrealms.wikia.com/wiki/Sel%C3%BBne)                   |
+| Tro         | [Selûne](religion#selune)                   |
 | Ålder       | 22                       |
 | Kön         | Female                   |
 | Ögonfärg    | Steely gray              |
