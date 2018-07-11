@@ -66,10 +66,10 @@ Hilduïr är en wood-elf som hamnat i [Ratchet Bay](geografi#ratchet-bay) och d�
 | Ras         | [Tortle](https://dnd-wiki.org/wiki/Tortle_(5e))   |
 | Klass       | [Sorcerer](https://www.dndbeyond.com/characters/classes/sorcerer) |
 | Bakgrund    | ?        |
-| Från        | ?        |
+| Från        | [Disree Cay](geografi#Disree-Cay)       |
 | Tro         | ?        |
 | Ålder       | ?        |
-| Kön         | ?        |
+| Kön         | Female        |
 | Ögonfärg    | ?        |
 | Hår         | ?        |
 | Hud         | ?        |
