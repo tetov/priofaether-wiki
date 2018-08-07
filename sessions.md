@@ -51,7 +51,7 @@ Efter en frukost så gick [Hilduïr](karaktarer#hilduir-haethorn) in i en trans 
 
 Utan mycket mer att gå på så bestämde gruppen sig för att bestiga berget, fast först lejde de [Sean's](karaktarer#sean) hjälp som guide och köpte utrustning för att bestiga berget. [Sean](karaktarer#sean) tröttnade en bit upp men övertygades vänta medan gruppen fortsatte klättra. Längre upp hittade de en stor grottöppning som de valde att utforska. Därinne fann de ett stup som de efter ett tag lyckades ta sig över, alla förutom [Mara](karaktarer#mara-windrivver) som föll men hölls uppe av ett säkerhetsrep. [Buka](karaktarer#buka) föll även han efter ett räddningsförsök och tillsammans föll de i vattnet och drevs bort av en ström nedför ett vattenfall och in i ett stort grottrum. [Daleld](karaktarer#daleld-lightshield), [Ini](karaktarer#ini) och [Hilduïr](karaktarer#hilduir-haethorn) mötte på andra sidan stupet ett par ohjälpsamma draklika figurer som efter lite diskuterande knuffade ner [Ini](karaktarer#ini) för stupet. [Daleld](karaktarer#daleld-lightshield) och [Hilduïr](karaktarer#hilduir-haethorn) valde att följa efter och hela gruppen (förutom [Yrsimerah](karaktarer#yrsimerah-suun)) återförenades nedanför vattenfallet i det stora grottrummet. På en strand till sjön som bildats av vattenfallet slog de läger för att sova och natten förflöt utan mycket mer än lite experimenterande med de lysande svamparna som fanns i grottrummet. När natten nästan förflutit så överfölls de av något... 
 
-# Session 3
+# The Return to the Trial of Initiation
 
 2018-07-23
 
@@ -64,4 +64,15 @@ Närvarande:
 
 Veckans session blev ett så kallat [breather episode](https://tvtropes.org/pmwiki/pmwiki.php/Main/BreatherEpisode) spellett av Anton. Äventyret var baserat på [The Return of the Trial of Initiation](http://www.dragonmag.com/5.0/#!/article/116511/103638663).
 
-Innan våra äventyrare hann vakna i grottan de slagit läger i under förra spelsessionen så vaknade Buka, Daled, Hilduïr och Ini upp på Bureau of Balance's månbas. De var förvirrade och detta ledde Johann som kommit för att väcka dem till att ta med dem till ett rum med en glastank med vatten och en slags bläckfisk (_the voidfish_) som hjälpte dem återfinna minnen från platsen och organisationen de varit en del av. Med i alla fall lite bättre aning om vad som hände skickades de sedan direkt för att lösa ett problem med byråns robotar som börjat attackera. Äventyret slutade väl, och de vaknade efter fullgjort arbete upp i grottan med vattenfallet där de slagit läger dagen innan. 
+Innan våra äventyrare hann vakna i grottan de slagit läger i under förra spelsessionen så vaknade Buka, Daled, Hilduïr och Ini upp på Bureau of Balance's månbas. De var förvirrade och detta ledde Johann som kommit för att väcka dem till att ta med dem till ett rum med en glastank med vatten och en slags bläckfisk (_the voidfish_) som hjälpte dem återfinna minnen från platsen och organisationen de varit en del av. Med i alla fall lite bättre aning om vad som hände skickades de sedan direkt för att lösa ett problem med byråns robotar som börjat attackera. Äventyret slutade väl, och de vaknade efter fullgjort arbete upp i grottan med vattenfallet där de slagit läger dagen innan.
+
+# Session 3
+
+2018-07-07
+
+Närvarande:
+* Henrik
+* Anton
+* Axel
+* Christine
+* Pierre
